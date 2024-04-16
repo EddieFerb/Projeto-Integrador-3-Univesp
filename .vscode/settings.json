@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "serv-paio-banco-de-dados.mysql.database.azure.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "PI3",
+            "group": "sqldatabase",
+            "database": "cadastro_de_clientes",
+            "username": "PI3",
+            "askForPassword": true
+        }
+    ]
+}
